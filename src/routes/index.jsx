@@ -6,8 +6,7 @@ import Service from "../pages/service/Service";
 import Company from "../pages/company/Company";
 import Career from "../pages/career/Career";
 import NotFound from "../pages/NotFound/NotFound";
-import LogIn from "../pages/Login/LogIn";
-
+import LogIn from "../pages/login/Login";
 const Router = () => {
   return (
     <Routes>
